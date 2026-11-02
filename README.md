@@ -1,6 +1,7 @@
 # Pak's Fixed-Polyomino Square-Counting Theorem
 
 [![Lean](https://github.com/canghaimeng/PakFixedPolyomino/actions/workflows/lean.yml/badge.svg)](https://github.com/canghaimeng/PakFixedPolyomino/actions/workflows/lean.yml)
+[![arXiv](https://img.shields.io/badge/arXiv-2610.42063-b31b1b.svg)](https://arxiv.org/abs/2610.42063)
 
 A Lean 4 formalization of **#EXP-completeness of square-tiling counting for one fixed finite family of connected polyominoes**, under polynomial-time metric reductions.
 
